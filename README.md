@@ -1,1 +1,2 @@
 # Dental-Clinic-System
+My project was to build a software system which eliminates the use of paper work in the clinic and automates functionalities. The clinic can register a patient, check the history of the patient, book an appointment and generate billa for an individual patient. C++ language is used to build this software and we executed the software successfully. The main disadvantage of this system was the file handling system.
